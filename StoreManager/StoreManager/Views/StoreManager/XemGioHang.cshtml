@@ -1,0 +1,56 @@
+﻿@{
+    ViewBag.Title = "XemGioHang";
+    Layout = "~/Views/Shared/Masterpage.cshtml";
+}
+@using StoreManager.Models;
+@model GioHang
+<div class="container">
+    @if (Model == null || Model.SoMatHang() == 0)
+    {
+        <p>Giỏ Hàng Hơi Rỗng!!</p>
+    }
+    else
+    {
+         <table class="table">
+        <tr>
+            <td>Mã sản phẩm</td>
+            <td>Ten sản phẩm</td>
+            <td>Size </td>
+            <td>Xuất xứ</td>
+            <td>Giới tính</td>
+            <td>Giá bán</td>
+            <td>Hình</td>
+            <td>Số lượng</td>
+            <td>Thành tiền</td>
+        </tr>
+        @foreach (CartItem item in Model.lst)
+        {
+            <tr>
+                <td>@item.iMaSP</td>
+                <td>@item.sTenSP</td>
+                <td>@item.sSize</td>
+                <td>@item.sXuatXu</td>
+                <td>@item.sGioiTinh</td>
+                <td>@item.dGiaBan</td>
+                <td>@item.sHinh </td>
+                <td>@item.iSoLuong</td>
+                <td>@item.ThanhTien</td>
+                <td><a href="/QLSanPham/Chitietsp/@item.iMaSP">Chi tiết sản phẩm</a></td>
+                <td><a href="/StoreManager/XoaMatHang/@item.iMaSP">Xóa</a></td>
+                <td><a href="/StoreManager/SuaMatHang/@item.iMaSP" class="btn btn-secondary">Sửa</a></td>
+            </tr>
+        }
+        <tr>
+            <td colspan="3">Tổng</td>
+            <td class="text-danger text-bold">@Model.TongSLHang()</td>
+            <td> </td>
+            <td><a href="/StoreManager/XoaGioHang" class="btn btn-danger">Xóa giỏ hàng</a></td>
+            <td colspan="2">
+                @Html.ActionLink("Đặt Hàng", "XacNhanDongHang", "StoreManager", new { @class = "btn btn-danger" })
+            </td>
+        </tr>
+
+    </table>
+    }
+   
+</div>

@@ -1,0 +1,43 @@
+﻿@model StoreManager.Models.SANPHAM
+
+@{
+    ViewBag.Title = "Chitietsp";
+    Layout = "~/Views/Shared/Masterpage.cshtml";
+}
+<link href="~/Content/themes/StyleSheet3.css" rel="stylesheet" />
+<div class="container">
+    <p>
+        @Html.ActionLink("Edit", "Suasp", new { id = Model.MASP }) |
+        @Html.ActionLink("Back to List", "Home")
+    </p>
+</div>
+
+<html lang="en">
+
+<head>
+    <title>@Html.DisplayFor(model => model.TENSP)</title>
+    <link href="https://fonts.googleapis.com/css?family=Bentham|Playfair+Display|Raleway:400,500|Suranna|Trocchi" rel="stylesheet">
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="product-img">  
+            <img src="@Url.Content("~/Content/HinhAnhSanPham/" + Model.HINH)" height="420" width="327" />
+        </div>
+        <div class="product-info">
+            <div class="product-text">
+                <h1>@Html.DisplayFor(model => model.TENSP)</h1>
+                <h2>cửa hàng quần áo</h2>
+                <p>Size: @Html.DisplayFor(model => model.SIZE)<br>Xuất xứ:@Html.DisplayFor(model => model.XUATXU)<br>Giới tính: @Html.DisplayFor(model => model.GIOITINH)<br>Loại: @Html.DisplayFor(model => model.MALOAI)</p>
+            </div>
+            <div class="product-price-btn">
+                <p style ="margin-top:-50px"><span>@String.Format("{0:0.0}", Model.GIABAN)</span>$</p>
+             
+               <a href="/StoreManager/ThemMatHang/@Model.MASP"><img src="~/Content/Hinh/muangay.png" height="80" width="250"/></a>
+</div>
+        </div>
+    </div>
+
+</body>
+
+</html>

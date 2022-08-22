@@ -1,0 +1,20 @@
+﻿@using StoreManager.Models;
+@model List<CTHOADON>
+<table class="text-center">
+    <tr>
+        <th class="w-10">Mã sản phẩm</th>
+        <th class="w-40">Tên sản phẩm</th>
+        <th class="w-10">Đon giá</th>
+        <th class="w-10">Số lượng</th>
+    </tr>
+    @foreach (var ct in Model)
+    {
+        <tr>
+            <td>@ct.MaSP</td>
+            <td>@ct.SANPHAM.TENSP</td>
+            <td>@ct.SANPHAM.GIABAN</td>
+            <td>@ct.SoLuong</td>
+        </tr>
+    }
+
+</table>

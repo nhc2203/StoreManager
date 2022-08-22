@@ -1,0 +1,101 @@
+﻿@model StoreManager.Models.KHACHHANG
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>DangKy</title>
+</head>
+<body>
+    <script src="~/Scripts/jquery-1.8.2.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+    <link href="~/Content/themes/StyleSheet4.css" rel="stylesheet" />   
+    <div class="container">
+
+        <form id="signup" action="/StoreManager/DangKyKH" method="post">
+            <div class="header">
+                <h3>Sign Up</h3>
+                <p>You want to fill out this form</p>
+            </div>
+
+            <div class="sep"></div>
+
+            <div class="inputs">
+                
+                @Html.AntiForgeryToken()
+                @Html.ValidationSummary(true)
+
+                <div class="editor-label">
+                    @Html.LabelFor(model => model.MAKH)
+                </div>
+                <div class="editor-field">
+                    @Html.EditorFor(model => model.MAKH)
+                    @Html.ValidationMessageFor(model => model.MAKH)
+                </div>
+
+                <div class="editor-label">
+                    @Html.LabelFor(model => model.TENKH)
+                </div>
+                <div class="editor-field">
+                    @Html.EditorFor(model => model.TENKH)
+                    @Html.ValidationMessageFor(model => model.TENKH)
+                </div>
+
+                <div class="editor-label">
+                    @Html.LabelFor(model => model.NGSINH)
+                </div>
+                <div class="editor-field">
+                    @Html.EditorFor(model => model.NGSINH)
+                    @Html.ValidationMessageFor(model => model.NGSINH)
+                </div>
+
+                <div class="editor-label">
+                    @Html.LabelFor(model => model.DIACHI)
+                </div>
+                <div class="editor-field">
+                    @Html.EditorFor(model => model.DIACHI)
+                    @Html.ValidationMessageFor(model => model.DIACHI)
+                </div>
+
+                <div class="editor-label">
+                    @Html.LabelFor(model => model.DTHOAI)
+                </div>
+                <div class="editor-field">
+                    @Html.EditorFor(model => model.DTHOAI)
+                    @Html.ValidationMessageFor(model => model.DTHOAI)
+                </div>
+
+                <div class="editor-label">
+                    @Html.LabelFor(model => model.TAIKHOAN)
+                </div>
+                <div class="editor-field">
+                    @Html.EditorFor(model => model.TAIKHOAN)
+                    @Html.ValidationMessageFor(model => model.TAIKHOAN)
+                </div>
+
+                <div class="editor-label">
+                    @Html.LabelFor(model => model.MATKHAU)
+                </div>
+                <div class="editor-field">
+                    @Html.EditorFor(model => model.MATKHAU)
+                    @Html.ValidationMessageFor(model => model.MATKHAU)
+                </div>
+
+                <p>
+                    <input type="submit" value="Create" />
+                </p> 
+                <div>
+                    @Html.ActionLink("Back to List", "Home")
+                </div>
+            </div>
+        </form>
+
+    </div>
+    </body>
+</html>

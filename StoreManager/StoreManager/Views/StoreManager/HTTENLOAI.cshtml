@@ -1,0 +1,10 @@
+﻿@using StoreManager.Models;
+@model List<LOAIQUANAO>
+<ul class="nav navbar-nav" style="font-size:18px; color:black ;font-family: 'Roboto', sans-serif;">
+    @foreach (var cd in Model)
+    {
+        <li class="nav-item">
+            @Html.ActionLink(@cd.TENLOAI, "HTSP", "StoreManager", new { ml = @cd.MALOAI }, new { @class = "nav-link" })
+        </li>
+    }
+</ul>

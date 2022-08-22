@@ -1,0 +1,66 @@
+﻿@using StoreManager.Models;
+@{
+    ViewBag.Title = "Home";
+    Layout = "~/Views/Shared/Masterpage.cshtml";
+}
+@model List<SANPHAM>
+<link href="~/Content/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+<link href="~/Content/themes/StyleSheet1.css" rel="stylesheet" />
+<div class="container">
+        <div class="row">
+            <div class="col-md-3" style="background: #F0F0E9;">
+					<div><!--category-->
+                        <h2 style="color:orange">Danh mục</h2>
+                        <nav class="navbar menufontchu" >
+                           @Html.Action("HTTENLOAI", "StoreManager")  
+                        </nav>
+
+					</div><!--category-->
+                    <br />
+                    <br />
+                    <br />
+                    <div><!--brands-->
+						<h2 style="color:orange">Thương hiệu</h2>
+                        <br />
+						<div class="menufontchu">
+							<ul class="nav navbar-nav">
+								<li><a href=""> <span class="pull-right">(50)</span>Acne</a></li>
+								<li><a href=""> <span class="pull-right">(56)</span>Grüne Erde</a></li>
+								<li><a href=""> <span class="pull-right">(27)</span>Albiro</a></li>
+								<li><a href=""> <span class="pull-right">(32)</span>Ronhill</a></li>
+								<li><a href=""> <span class="pull-right">(5)</span>Oddmolly</a></li>
+								<li><a href=""> <span class="pull-right">(9)</span>Boudestijn</a></li>
+								<li><a href=""> <span class="pull-right">(4)</span>Rösch creative culture</a></li>
+							</ul>
+						</div>
+				    </div><!--/brands-->
+                <br />
+                <br />
+                <br />
+                <br />
+                <div>
+                    <img src="~/Content/Images/shipping.jpg" />
+                </div>
+			</div>
+            <div class="col-md-9">
+                <div class="container">
+                    <h2 style="color:white; background-color:grey; width:800px; padding-left:20px">New Arrivals</h2>
+                    <div class="row ml-1 mb-3" style="background-color: white">
+                        @{
+                            foreach (var item in Model)
+                            {
+
+                                <div class="col border" style="text-align: center">
+                                    <a href="/QLSanPham/Chitietsp/@item.MASP"><img src="~/Content/HinhAnhSanPham/@item.HINH" height="200" width="200" /></a>               
+                                    <p style="text-align:left"><b>@item.TENSP</b></p>
+                                    <p class="text-danger">@item.GIABAN VNĐ</p>
+                                    <a href="/StoreManager/ThemMatHang/@item.MASP"><img src="~/Content/Hinh/muangay.png" height="50" width="150" /></a>
+</div>
+                            }
+                        }
+                    </div>
+                </div>
+
+            </div>
+        </div>
+</div>

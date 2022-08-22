@@ -1,0 +1,26 @@
+﻿@{
+    ViewBag.Title = "DangNhapNV";
+    Layout = "~/Views/Shared/Masterpage.cshtml";
+}
+<link href="~/Content/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+<link href="~/Content/themes/base/StyleSheet2.css" rel="stylesheet" />
+<div class="container login-box">
+    <h2 style="text-align:center">Đăng nhâp nhân viên</h2>
+    <form action="/QLSanPham/XLDNNV" method="post">
+        <div class="user-box">
+            <input type="text" name="txtTendnn" value="" />
+            <label>Username</label>
+        </div> 
+        <div class="user-box">
+            <input type="password" name="txtPasss" value="" />
+            <label>Password</label>
+        </div>
+        <a href="#">
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <input type="submit" value="Đăng nhập" />
+        </a>         
+    </form>
+</div>

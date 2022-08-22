@@ -1,0 +1,88 @@
+﻿@using StoreManager.Models;
+@{
+    ViewBag.Title = "QLHangHoa";
+    Layout = "~/Views/Shared/Masterpage.cshtml";
+    var stt = 0;
+}
+
+@model List<HOADON>
+<div class="container">
+    <form action="/QLHOADON/CapNhatGiaoHang" method="post">
+        <table class="table table-striped">
+            <tr class="bg-secondary">
+                <th class="w-10 text-center">
+                    STT
+                </th>
+                <th class="w-15 text-center">
+                    Ngày đặt hàng
+                </th>
+                <th class="w-40 text-center">
+                    Thông tin khách hàng
+                </th>
+                <th class="w-10 text-center">
+                    Ngày hẹn giao
+                </th>
+                <th class="w-40 text-center">
+                    Mã hóa đơn
+                </th>
+                <th class="w-10 text-center">
+                    Tình Trạng
+                </th>
+                <th class="w-10 text-center">
+                    Duyệt giao hàng
+                </th>
+            </tr>
+            @foreach (var item in Model)
+            {
+                stt++;
+                <tr class="text-center">
+                    <td class="text-center">@stt</td>
+                    <td class="text-center">@String.Format("{0:dd-MM-yyyy}", item.NGAYHD)</td>
+                    <td>
+                        <p class="text-center">@Html.DisplayFor(modelItem => item.MAKH)</p>
+                        <p class="text-center">@item.KHACHHANG.TENKH (@item.KHACHHANG.DTHOAI)</p>
+                        <p class="text-center">@item.KHACHHANG.DIACHI</p>
+                    </td>
+                    <td>
+                        @String.Format("{0:dd-MM-yyyy}", item.NGAYGIAO)
+                    </td>
+                    <td class="text-center">
+                        <div class="nav navbar">
+                            <a class=" dropdown-toggle" id="dsct" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="color:black">
+                                @item.MAHD
+                                @Html.Action("ThongKe", "QLHOADON", new { mhd = item.MAHD })
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="dsct">
+                                @Html.Action("LietKe", "QLHOADON", new { mhd = item.MAHD })
+                            </div>
+                        </div>
+                    </td>
+                    <td>
+                        @if (item.NgayThanhToan == null)
+                        {
+                            <input type="checkbox" name="abc" disabled />
+                        }
+                        else
+                        {
+                            <input type="checkbox" name="abc" checked disabled /><text> Đã Giao </text>
+                        }
+                    </td>
+                    <td>
+                        @if (item.NgayThanhToan == null)
+                        {
+                            <input type="checkbox" name="@stt" value="@item.MAHD" />
+                        }
+                    </td>
+                </tr>
+            }
+            <tr>
+                <td class="text-center" colspan="7">
+                    <input type="hidden" name="tong" value="@stt" />
+                    <input type="submit" value="Giao hàng ngay" />
+                </td>
+            </tr>
+        </table>
+
+    </form>
+
+</div>

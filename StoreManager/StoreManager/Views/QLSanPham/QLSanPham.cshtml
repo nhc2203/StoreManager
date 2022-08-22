@@ -1,0 +1,84 @@
+﻿@model IEnumerable<StoreManager.Models.SANPHAM>
+
+@{
+    ViewBag.Title = "QLSanPham";
+    Layout = "~/Views/Shared/Masterpage.cshtml";
+}
+
+<p>
+   
+</p>
+<div class="container">
+    <div class="col-md-3">
+    </div>
+    <div class="col-md-9">
+        <div class="row"  style="width:auto">
+            <h2 style="width:400px">Danh sách các sản phẩm</h2>
+            
+        </div>
+        <h5>@Html.ActionLink("Thêm mới", "Themmoisp")</h5>   
+        <div class="row" style="border-bottom:medium;background-color:darkgray">
+          
+            <div class="col" style="width:auto">
+                @Html.DisplayNameFor(model => model.TENSP)
+            </div>
+            <div class="col" style="width:100px">
+                @Html.DisplayNameFor(model => model.SIZE)
+            </div>
+            <div class="col" style="width:100px">
+                @Html.DisplayNameFor(model => model.XUATXU)
+            </div>
+            <div class="col" style="width:100px">
+                @Html.DisplayNameFor(model => model.GIOITINH)
+            </div>
+            <div class="col" style="width:100px">
+                @Html.DisplayNameFor(model => model.GIABAN)
+            </div>
+            <div class="col" style="width:100px">
+                @Html.DisplayNameFor(model => model.HINH)
+            </div>
+            <div class="col" style="width:100px">
+                @Html.DisplayNameFor(model => model.MALOAI)
+            </div>
+            <div class="col" style="width:500px">
+                Chỉnh sửa
+            </div>
+        </div>
+        <br />
+        @foreach (var item in Model)
+        { 
+            <div class="row" style="border-bottom:medium">
+                <div class="col" style="width:auto">
+                    @Html.DisplayFor(modelItem => item.TENSP)
+                </div>
+                <div class="col" style="width:100px">
+                    @Html.DisplayFor(modelItem => item.SIZE)
+                </div>
+                <div class="col" style="width:100px">
+                    @Html.DisplayFor(modelItem => item.XUATXU)
+                </div>
+                <div class="col" style="width:100px">
+                    @Html.DisplayFor(modelItem => item.GIOITINH)
+                </div>
+                <div class="col" style="width:100px">
+                    @Html.DisplayFor(modelItem => item.GIABAN)
+                </div>
+                <div class="col" style="width:100px">
+                    <img src="~/Content/HinhAnhSanPham/@item.HINH" width="50" height="70" />
+                </div>
+                <div class="col" style="width:100px">
+                    @Html.DisplayFor(modelItem => item.MALOAI)
+                </div>
+                <div class="col" style="width:500px">
+                    <div class="row">
+                        @Html.ActionLink("Update", "Suasp", new { id = item.MASP }) |
+                        @Html.ActionLink("Details", "Chitietsp", new { id = item.MASP }) |
+                        @Html.ActionLink("Delete", "Xoasp", new { id = item.MASP })
+                    </div>
+                </div>
+                <hr width="70%" align="center" />
+            </div>
+        }
+    </div>
+
+</div>

@@ -1,0 +1,91 @@
+﻿@model StoreManager.Models.SANPHAM
+
+@{
+    ViewBag.Title = "Xoasp";
+    Layout = "~/Views/Shared/Masterpage.cshtml";
+}
+<link href="~/Content/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+<link href="~/Content/themes/StyleSheet1.css" rel="stylesheet" />
+
+<fieldset>
+    <div class="container">
+        <div class="col" style="width:300px">
+        
+        </div>
+        <div class="col">
+            <h3>Bạn có muốn xóa sản phẩm không?</h3>
+            <div class="form-row">
+                <div class="display-label">
+                    <label style="font-style:inherit; width:105px">Tên san phẩm: </label>
+                </div>
+                <div class="display-field">
+                    @Html.DisplayFor(model => model.TENSP)
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="display-label">
+                    <label style="font-style:oblique; width:35px">Size: </label>
+                </div>
+                <div class="display-field">
+                    @Html.DisplayFor(model => model.SIZE)
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="display-label">
+                    <label style="font-style:oblique; width:63px">Xuất xứ: </label>
+                </div>
+                <div class="display-field">
+                    @Html.DisplayFor(model => model.XUATXU)
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="display-label">
+                    <label style="font-style:oblique; width:70px">Giới tính: </label>
+                </div>
+                <div class="display-field">
+                    @Html.DisplayFor(model => model.GIOITINH)
+                </div>
+            </div>
+
+            <div class="form-row">
+                <div class="display-label">
+                    <label style="font-style:oblique; width:63px">Gía bán: </label>
+                </div>
+                <div class="display-field">
+                    @String.Format("{0:0.0}", Model.GIABAN) VNĐ
+                </div>
+
+            </div>
+
+            <div class="display-label">
+                @*@Html.DisplayNameFor(model => model.HINH)*@
+
+            </div>
+            <div class="display-field">
+                <img src="@Url.Content("~/Content/Hinh/" + Model.HINH)" width="120px" />
+            </div>
+            <div class="form-row">
+                <div class="display-label">
+                    <label style="font-style:oblique;width:65px ">Mã loại: </label>
+                </div>
+                <div class="display-field">
+                    @Html.DisplayFor(model => model.MALOAI)
+                </div>
+            </div>
+            @using (Html.BeginForm("Xoasp", "QLSanPham", FormMethod.Post, new { enctype = "multipart/form-data" }))
+            {
+                @Html.AntiForgeryToken()
+                <p>
+                    <div class="form-action">
+                        <input type="submit" value="Delete" class="btn btn-default" /> |
+                        @Html.ActionLink("Quay ve trang truoc", "QLSanPham")
+                    </div>
+                </p>
+            }
+        </div>
+    </div>
+</fieldset>
+<script src="~/Scripts/jquery-1.8.2.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+

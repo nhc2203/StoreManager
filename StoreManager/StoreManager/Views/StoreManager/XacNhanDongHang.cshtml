@@ -1,0 +1,61 @@
+﻿@{
+    ViewBag.Title = "XacNhanDongHang";
+    Layout = "~/Views/Shared/Masterpage.cshtml";
+}
+@using StoreManager.Models;
+@model KHACHHANG
+<div class="container">
+    <form action="/StoreManager/LuuDatHang" method="post">
+        <h2 class="w-100">Thông tin đặt hàng</h2>
+        <table>
+            <tr>
+                <td>Họ tên: @Model.TENKH</td>
+                <td>Điện thoại: @Model.DTHOAI</td>
+            </tr>
+            <tr>
+                <td colspan="2" class="text-left">Địa chỉ: @Model.DIACHI</td>
+            </tr>
+            <tr>
+                <td>Ngày Đặt: @DateTime.Now.ToShortDateString() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                <td>Ngày Giao: <input type="date" name="txt_Date" /></td>
+            </tr>
+            <tr>
+                <td> &nbsp; </td>
+                <td> </td>
+            </tr>
+            @*<tr>
+                    <td colspan="2" class="text-center">
+                        <table class="table">
+                            <tr>
+                                <td>Ma sach</td>
+                                <td>Ten sach</td>
+                                <td>So luong</td>
+                                <td>DOn gia</td>
+                            </tr>
+                            @foreach (CartItem item in Model.lst)
+                            {
+                                <tr>
+                                    <td>@item.iMaSach</td>
+                                    <td>@item.sTenSach</td>
+                                    <td>@item.iSoLuong</td>
+                                    <td>@item.dDonGia</td>
+                                </tr>
+                            }
+                            <tr>
+                                <td colspan="3">Tổng</td>
+                                <td class="text-danger text-bold">@Model.TongSLHang()</td>
+                            </tr>
+                            <tr>
+                                <td colspan="3">Tổng tiền</td>
+                                <td class="text-danger text-bold">@Model.TongThanhTien()</td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>*@
+            <tr>
+                <td></td>
+                <td><input type="submit" value="Đồng ý đặt hàng" /></td>
+            </tr>
+        </table>
+    </form>
+</div>

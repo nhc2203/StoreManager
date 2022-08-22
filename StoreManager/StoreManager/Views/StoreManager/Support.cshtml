@@ -1,0 +1,122 @@
+﻿@{
+    ViewBag.Title = "Support";
+    Layout = "~/Views/Shared/Masterpage.cshtml";
+}
+<link href="~/Content/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+<link href="~/Content/themes/StyleSheet1.css" rel="stylesheet" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<div class="container">
+    <div class="row">
+        <div class="col-md-4">
+            <a>
+                <img src="~/Content/Images/contact-123website.jpg" style=" Width:293px; Height:297px" />
+            </a>
+        </div>
+        <div class="col-md-6" style="padding-left:50px;padding-right:30px;width:323px; float:left">
+
+            <div>
+                <div style="border:5px solid  #d5d5d5; width:350px">
+                    <div style="color:#f26522"><h5>THÔNG TIN LIÊN HỆ</h5></div>
+                    <ul>
+                        <li><div class="icon"><i class="fa fa-home"></i></div><div class="text">150 Lê Trọng Tấn,Phường Tây Thạnh,Quận Tân Phú, TPHCM</div></li>
+                        <li><div class="icon"><i class="fa fa-phone-square"></i></div><div class="text"><strong>0932092002</strong></div></li>
+                        <li><div class="icon"><i class="fa fa-fax"></i></div><div class="text"><strong>028 3510 6868 (tạm ngưng)</strong></div></li>
+                        <li><div class="icon"><i class="fa fa-envelope"></i></div><div class="text"><a href="mailto:info@123website.com.vn">NguyenDacDat@gmail.com</a></div></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <hr />
+    <div class="row">
+        <h4 style="text-align: left;font-family:Roboto;font-weight:900;font-style:normal;color:#f26522">
+            Gửi lời nhắn
+        </h4>
+        
+        
+    </div>
+    <div class="row">
+        <div class="col-md-7">
+            <form action="/BTL2/TruyenDuLieu" method="post" enctype="multipart/form-data" class="form-control">
+                <div class="form-group col-5">
+                    <b><label>Full Name</label></b>
+                    <input name="name" type="text" class="form-control" placeholder="Nguyễn Đắc Đạt">
+                    <small class="form-text text-muted">Nhập họ tên đầy đủ</small>
+                </div>
+                <div class="form-group col-5">
+                    <b><label>ID Student</label></b>
+                    <input type="text" name="ID" class="form-control" placeholder="9710065" />
+                </div>
+                <div class="form-group col-5">
+                    <b><label>Email</label></b>
+                    <input type="text" name="email" class="form-control" placeholder="dat@gmail.com" />
+                </div>
+                <div class="form-group">
+                    <b><label>File Image Input</label></b><br />
+                    <input id="File1" type="file" name="fileHinh" />
+                </div>
+                <div class="form-group col-5">
+                    <b><label>Note</label></b><br />
+                    <textarea name="ghichu" placeholder="Note Note"></textarea>
+                </div>
+                <label>Appriciate</label><br />
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <input id="Checkbox1" type="checkbox" name="ckTV" />
+                        <label>Very Good</label><br />
+                        <input id="Checkbox2" type="checkbox" name="ckWeb" />
+                        <label>Good</label><br />
+                        <input id="Checkbox3" type="checkbox" name="ckNew" />
+                        <label>Normal</label><br />
+                        <input id="Checkbox4" type="checkbox" name="ckNew" />
+                        <label>Bad</label>
+                    </div>
+                    <div class="form-group col-md-6">
+                        you will continue to support the store: <br />
+                        <input type="radio" name="rd" value="1" />
+                        <label>Sure</label> <br />
+                        <input type="radio" name="rd" value="2" />
+                        <label>Not Sure</label> <br />
+                        
+                    </div>
+                </div>
+                <div class="form-group col-md-12">
+                    <b><label>Selects An cource</label></b>
+                    <select id="inputState" class="form-control" name="khoa">
+                        <option selected value="1">1. Html CSSBoottrap</option>
+                        <option value="2">2...............</option>
+                    </select>
+                </div>
+                <input type="submit" value="Submit Button" />
+                <button>ResetBotton</button>
+            </form>
+        </div>
+        <div class="col-md-5">
+            <div class="form1" style="margin-bottom:40px">
+                <div class="heading" style="margin-bottom:30px">
+                    <h4 style="text-align: left;margin-bottom:15px;line-height: 25px;font-family:Roboto;font-weight:900;font-style:normal;color:#f26522;text-transform:uppercase">
+                        Liên Hệ Trực Tiếp
+                    </h4>
+                </div>
+                <div style="margin-bottom:40px;">
+                    <h5 class="hotline" style="   text-transform: uppercase; margin: 0 0 5px;   font-size:14px;">
+                        Số Hotline Kinh Doanh
+                    </h5>
+                    <div style="margin-bottom:18px;font-size:13px">Tư vấn - đặt hàng</div>
+                    <div style="font-size:13px;line-height: 22px;"> Phone:035412652</div>
+                    <div style="font-size:13px;line-height: 22px;">Email:dacdat@gmail.com</div>
+
+                </div>
+                <div style="margin-bottom:40px;">
+                    <h5 class="hotline" style="   text-transform: uppercase; margin: 0 0 5px;   font-size:14px;">
+                        Phòng Kỹ Thuật
+                    </h5>
+                    <div style="margin-bottom:18px;font-size:13px">Hỗ Trợ - Hướng Dẫn</div>
+                    <div style="font-size:13px;line-height: 22px;"> Phone:035412652</div>
+                    <div style="font-size:13px;line-height: 22px;">Email:dacdat@gmail.com</div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

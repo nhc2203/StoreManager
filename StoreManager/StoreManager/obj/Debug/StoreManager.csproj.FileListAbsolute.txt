@@ -1,0 +1,447 @@
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager\bin\StoreManager.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager\bin\StoreManager.pdb
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager\bin\Antlr3.Runtime.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager\bin\EntityFramework.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager\bin\Microsoft.Web.Infrastructure.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager\bin\Newtonsoft.Json.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager\bin\System.Net.Http.Formatting.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager\bin\System.Web.Http.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager\bin\System.Web.Http.WebHost.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager\bin\System.Web.Mvc.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager\bin\System.Web.Optimization.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager\bin\System.Web.Providers.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager\bin\System.Web.Razor.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager\bin\System.Web.WebPages.Deployment.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager\bin\System.Web.WebPages.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager\bin\System.Web.WebPages.Razor.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager\bin\WebGrease.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager\bin\EntityFramework.xml
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager\bin\Newtonsoft.Json.xml
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager\bin\System.Net.Http.Formatting.xml
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager\bin\System.Web.Http.xml
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager\bin\System.Web.Http.WebHost.xml
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager\bin\System.Web.Mvc.xml
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager\bin\System.Web.Razor.xml
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager\bin\System.Web.WebPages.xml
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager\bin\System.Web.WebPages.Deployment.xml
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager\bin\System.Web.WebPages.Razor.xml
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager\obj\Debug\StoreManager.csprojResolveAssemblyReference.cache
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager\obj\Debug\StoreManager.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager\obj\Debug\StoreManager.pdb
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager\bin\StoreManager.dll.config
+C:\Users\KERO\Desktop\StoreManager\StoreManager\bin\StoreManager.dll.config
+C:\Users\KERO\Desktop\StoreManager\StoreManager\bin\StoreManager.dll
+C:\Users\KERO\Desktop\StoreManager\StoreManager\bin\StoreManager.pdb
+C:\Users\KERO\Desktop\StoreManager\StoreManager\bin\Antlr3.Runtime.dll
+C:\Users\KERO\Desktop\StoreManager\StoreManager\bin\EntityFramework.dll
+C:\Users\KERO\Desktop\StoreManager\StoreManager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\KERO\Desktop\StoreManager\StoreManager\bin\Newtonsoft.Json.dll
+C:\Users\KERO\Desktop\StoreManager\StoreManager\bin\System.Net.Http.Formatting.dll
+C:\Users\KERO\Desktop\StoreManager\StoreManager\bin\System.Web.Http.dll
+C:\Users\KERO\Desktop\StoreManager\StoreManager\bin\System.Web.Http.WebHost.dll
+C:\Users\KERO\Desktop\StoreManager\StoreManager\bin\System.Web.Mvc.dll
+C:\Users\KERO\Desktop\StoreManager\StoreManager\bin\System.Web.Optimization.dll
+C:\Users\KERO\Desktop\StoreManager\StoreManager\bin\System.Web.Providers.dll
+C:\Users\KERO\Desktop\StoreManager\StoreManager\bin\System.Web.Razor.dll
+C:\Users\KERO\Desktop\StoreManager\StoreManager\bin\System.Web.WebPages.Deployment.dll
+C:\Users\KERO\Desktop\StoreManager\StoreManager\bin\System.Web.WebPages.dll
+C:\Users\KERO\Desktop\StoreManager\StoreManager\bin\System.Web.WebPages.Razor.dll
+C:\Users\KERO\Desktop\StoreManager\StoreManager\bin\WebGrease.dll
+C:\Users\KERO\Desktop\StoreManager\StoreManager\bin\EntityFramework.xml
+C:\Users\KERO\Desktop\StoreManager\StoreManager\bin\Newtonsoft.Json.xml
+C:\Users\KERO\Desktop\StoreManager\StoreManager\bin\System.Net.Http.Formatting.xml
+C:\Users\KERO\Desktop\StoreManager\StoreManager\bin\System.Web.Http.xml
+C:\Users\KERO\Desktop\StoreManager\StoreManager\bin\System.Web.Http.WebHost.xml
+C:\Users\KERO\Desktop\StoreManager\StoreManager\bin\System.Web.Mvc.xml
+C:\Users\KERO\Desktop\StoreManager\StoreManager\bin\System.Web.Razor.xml
+C:\Users\KERO\Desktop\StoreManager\StoreManager\bin\System.Web.WebPages.xml
+C:\Users\KERO\Desktop\StoreManager\StoreManager\bin\System.Web.WebPages.Deployment.xml
+C:\Users\KERO\Desktop\StoreManager\StoreManager\bin\System.Web.WebPages.Razor.xml
+C:\Users\KERO\Desktop\StoreManager\StoreManager\obj\Debug\StoreManager.csprojResolveAssemblyReference.cache
+C:\Users\KERO\Desktop\StoreManager\StoreManager\obj\Debug\StoreManager.dll
+C:\Users\KERO\Desktop\StoreManager\StoreManager\obj\Debug\StoreManager.pdb
+C:\Users\huy\Downloads\StoreManager (3)\StoreManager\StoreManager\bin\StoreManager.dll.config
+C:\Users\huy\Downloads\StoreManager (3)\StoreManager\StoreManager\bin\StoreManager.dll
+C:\Users\huy\Downloads\StoreManager (3)\StoreManager\StoreManager\bin\StoreManager.pdb
+C:\Users\huy\Downloads\StoreManager (3)\StoreManager\StoreManager\bin\Antlr3.Runtime.dll
+C:\Users\huy\Downloads\StoreManager (3)\StoreManager\StoreManager\bin\EntityFramework.dll
+C:\Users\huy\Downloads\StoreManager (3)\StoreManager\StoreManager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\huy\Downloads\StoreManager (3)\StoreManager\StoreManager\bin\Newtonsoft.Json.dll
+C:\Users\huy\Downloads\StoreManager (3)\StoreManager\StoreManager\bin\System.Net.Http.Formatting.dll
+C:\Users\huy\Downloads\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Http.dll
+C:\Users\huy\Downloads\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Http.WebHost.dll
+C:\Users\huy\Downloads\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Mvc.dll
+C:\Users\huy\Downloads\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Optimization.dll
+C:\Users\huy\Downloads\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Providers.dll
+C:\Users\huy\Downloads\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Razor.dll
+C:\Users\huy\Downloads\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Deployment.dll
+C:\Users\huy\Downloads\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.dll
+C:\Users\huy\Downloads\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Razor.dll
+C:\Users\huy\Downloads\StoreManager (3)\StoreManager\StoreManager\bin\WebGrease.dll
+C:\Users\huy\Downloads\StoreManager (3)\StoreManager\StoreManager\bin\EntityFramework.xml
+C:\Users\huy\Downloads\StoreManager (3)\StoreManager\StoreManager\bin\Newtonsoft.Json.xml
+C:\Users\huy\Downloads\StoreManager (3)\StoreManager\StoreManager\bin\System.Net.Http.Formatting.xml
+C:\Users\huy\Downloads\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Http.xml
+C:\Users\huy\Downloads\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Http.WebHost.xml
+C:\Users\huy\Downloads\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Mvc.xml
+C:\Users\huy\Downloads\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Razor.xml
+C:\Users\huy\Downloads\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.xml
+C:\Users\huy\Downloads\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Deployment.xml
+C:\Users\huy\Downloads\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Razor.xml
+C:\Users\huy\Downloads\StoreManager (3)\StoreManager\StoreManager\obj\Debug\StoreManager.csprojResolveAssemblyReference.cache
+C:\Users\huy\Downloads\StoreManager (3)\StoreManager\StoreManager\obj\Debug\StoreManager.dll
+C:\Users\huy\Downloads\StoreManager (3)\StoreManager\StoreManager\obj\Debug\StoreManager.pdb
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager\StoreManager\obj\Debug\StoreManager.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager\StoreManager\obj\Debug\StoreManager.dll
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\StoreManager.dll.config
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\StoreManager.dll
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\StoreManager.pdb
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\Antlr3.Runtime.dll
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\EntityFramework.dll
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\Newtonsoft.Json.dll
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Mvc.dll
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Optimization.dll
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Providers.dll
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Razor.dll
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Deployment.dll
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.dll
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Razor.dll
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\WebGrease.dll
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\EntityFramework.xml
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\Newtonsoft.Json.xml
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Mvc.xml
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Razor.xml
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.xml
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Deployment.xml
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Razor.xml
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager\StoreManager\obj\Debug\StoreManager.pdb
+C:\Users\KERO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\StoreManager.dll.config
+C:\Users\KERO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\StoreManager.dll
+C:\Users\KERO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\StoreManager.pdb
+C:\Users\KERO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\Antlr3.Runtime.dll
+C:\Users\KERO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\EntityFramework.dll
+C:\Users\KERO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\KERO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\Newtonsoft.Json.dll
+C:\Users\KERO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\System.Net.Http.Formatting.dll
+C:\Users\KERO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Http.dll
+C:\Users\KERO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Http.WebHost.dll
+C:\Users\KERO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Mvc.dll
+C:\Users\KERO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Optimization.dll
+C:\Users\KERO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Providers.dll
+C:\Users\KERO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Razor.dll
+C:\Users\KERO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Deployment.dll
+C:\Users\KERO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.dll
+C:\Users\KERO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Razor.dll
+C:\Users\KERO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\WebGrease.dll
+C:\Users\KERO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\EntityFramework.xml
+C:\Users\KERO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\Newtonsoft.Json.xml
+C:\Users\KERO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\System.Net.Http.Formatting.xml
+C:\Users\KERO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Http.xml
+C:\Users\KERO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Http.WebHost.xml
+C:\Users\KERO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Mvc.xml
+C:\Users\KERO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Razor.xml
+C:\Users\KERO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.xml
+C:\Users\KERO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Deployment.xml
+C:\Users\KERO\Desktop\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Razor.xml
+C:\Users\KERO\Desktop\StoreManager (3)\StoreManager\StoreManager\obj\Debug\StoreManager.csprojResolveAssemblyReference.cache
+C:\Users\KERO\Desktop\StoreManager (3)\StoreManager\StoreManager\obj\Debug\StoreManager.dll
+C:\Users\KERO\Desktop\StoreManager (3)\StoreManager\StoreManager\obj\Debug\StoreManager.pdb
+D:\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\StoreManager.dll.config
+D:\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\StoreManager.dll
+D:\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\StoreManager.pdb
+D:\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\Antlr3.Runtime.dll
+D:\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\EntityFramework.dll
+D:\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\Microsoft.Web.Infrastructure.dll
+D:\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\Newtonsoft.Json.dll
+D:\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Net.Http.Formatting.dll
+D:\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Http.dll
+D:\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Http.WebHost.dll
+D:\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Mvc.dll
+D:\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Optimization.dll
+D:\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Providers.dll
+D:\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Razor.dll
+D:\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Deployment.dll
+D:\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.dll
+D:\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Razor.dll
+D:\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\WebGrease.dll
+D:\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\EntityFramework.xml
+D:\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\Newtonsoft.Json.xml
+D:\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Net.Http.Formatting.xml
+D:\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Http.xml
+D:\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Http.WebHost.xml
+D:\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Mvc.xml
+D:\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Razor.xml
+D:\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.xml
+D:\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Deployment.xml
+D:\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Razor.xml
+D:\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\obj\Debug\StoreManager.csprojResolveAssemblyReference.cache
+D:\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\obj\Debug\StoreManager.dll
+D:\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\obj\Debug\StoreManager.pdb
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\StoreManager.dll.config
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\StoreManager.dll
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\StoreManager.pdb
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\Antlr3.Runtime.dll
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\EntityFramework.dll
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\Newtonsoft.Json.dll
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Mvc.dll
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Optimization.dll
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Providers.dll
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Razor.dll
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Deployment.dll
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.dll
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Razor.dll
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\WebGrease.dll
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\EntityFramework.xml
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\Newtonsoft.Json.xml
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Mvc.xml
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Razor.xml
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.xml
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Deployment.xml
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Razor.xml
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\obj\Debug\StoreManager.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\obj\Debug\StoreManager.dll
+C:\Users\LENOVO\Desktop\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\obj\Debug\StoreManager.pdb
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\StoreManager.dll.config
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\StoreManager.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\StoreManager.pdb
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\Antlr3.Runtime.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\EntityFramework.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\Microsoft.Web.Infrastructure.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\Newtonsoft.Json.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Net.Http.Formatting.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Http.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Http.WebHost.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Mvc.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Optimization.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Providers.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Razor.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Deployment.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Razor.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\WebGrease.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\EntityFramework.xml
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\Newtonsoft.Json.xml
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Net.Http.Formatting.xml
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Http.xml
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Http.WebHost.xml
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Mvc.xml
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Razor.xml
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.xml
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Deployment.xml
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Razor.xml
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\obj\Debug\StoreManager.csprojResolveAssemblyReference.cache
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\obj\Debug\StoreManager.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager (3)\StoreManager\StoreManager\obj\Debug\StoreManager.pdb
+D:\StoreManager (3) (2)\StoreManager (3)\StoreManager\StoreManager\bin\StoreManager.dll.config
+D:\StoreManager (3) (2)\StoreManager (3)\StoreManager\StoreManager\bin\StoreManager.dll
+D:\StoreManager (3) (2)\StoreManager (3)\StoreManager\StoreManager\bin\StoreManager.pdb
+D:\StoreManager (3) (2)\StoreManager (3)\StoreManager\StoreManager\bin\Antlr3.Runtime.dll
+D:\StoreManager (3) (2)\StoreManager (3)\StoreManager\StoreManager\bin\EntityFramework.dll
+D:\StoreManager (3) (2)\StoreManager (3)\StoreManager\StoreManager\bin\Microsoft.Web.Infrastructure.dll
+D:\StoreManager (3) (2)\StoreManager (3)\StoreManager\StoreManager\bin\Newtonsoft.Json.dll
+D:\StoreManager (3) (2)\StoreManager (3)\StoreManager\StoreManager\bin\System.Net.Http.Formatting.dll
+D:\StoreManager (3) (2)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Http.dll
+D:\StoreManager (3) (2)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Http.WebHost.dll
+D:\StoreManager (3) (2)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Mvc.dll
+D:\StoreManager (3) (2)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Optimization.dll
+D:\StoreManager (3) (2)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Providers.dll
+D:\StoreManager (3) (2)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Razor.dll
+D:\StoreManager (3) (2)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Deployment.dll
+D:\StoreManager (3) (2)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.dll
+D:\StoreManager (3) (2)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Razor.dll
+D:\StoreManager (3) (2)\StoreManager (3)\StoreManager\StoreManager\bin\WebGrease.dll
+D:\StoreManager (3) (2)\StoreManager (3)\StoreManager\StoreManager\bin\EntityFramework.xml
+D:\StoreManager (3) (2)\StoreManager (3)\StoreManager\StoreManager\bin\Newtonsoft.Json.xml
+D:\StoreManager (3) (2)\StoreManager (3)\StoreManager\StoreManager\bin\System.Net.Http.Formatting.xml
+D:\StoreManager (3) (2)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Http.xml
+D:\StoreManager (3) (2)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Http.WebHost.xml
+D:\StoreManager (3) (2)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Mvc.xml
+D:\StoreManager (3) (2)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Razor.xml
+D:\StoreManager (3) (2)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.xml
+D:\StoreManager (3) (2)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Deployment.xml
+D:\StoreManager (3) (2)\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Razor.xml
+D:\StoreManager (3) (2)\StoreManager (3)\StoreManager\StoreManager\obj\Debug\StoreManager.csprojResolveAssemblyReference.cache
+D:\StoreManager (3) (2)\StoreManager (3)\StoreManager\StoreManager\obj\Debug\StoreManager.dll
+D:\StoreManager (3) (2)\StoreManager (3)\StoreManager\StoreManager\obj\Debug\StoreManager.pdb
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\StoreManager.dll.config
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\StoreManager.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\StoreManager.pdb
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\Antlr3.Runtime.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\EntityFramework.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\Microsoft.Web.Infrastructure.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\Newtonsoft.Json.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Net.Http.Formatting.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Http.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Http.WebHost.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Mvc.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Optimization.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Providers.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Razor.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Deployment.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Razor.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\WebGrease.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\EntityFramework.xml
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\Newtonsoft.Json.xml
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Net.Http.Formatting.xml
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Http.xml
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Http.WebHost.xml
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Mvc.xml
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Razor.xml
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.xml
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Deployment.xml
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Razor.xml
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager (3)\StoreManager\StoreManager\obj\Debug\StoreManager.csprojResolveAssemblyReference.cache
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager (3)\StoreManager\StoreManager\obj\Debug\StoreManager.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager\StoreManager (3)\StoreManager\StoreManager\obj\Debug\StoreManager.pdb
+C:\Users\KERO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\StoreManager.dll.config
+C:\Users\KERO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\StoreManager.dll
+C:\Users\KERO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\StoreManager.pdb
+C:\Users\KERO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\Antlr3.Runtime.dll
+C:\Users\KERO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\EntityFramework.dll
+C:\Users\KERO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\KERO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\Newtonsoft.Json.dll
+C:\Users\KERO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Net.Http.Formatting.dll
+C:\Users\KERO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Http.dll
+C:\Users\KERO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Http.WebHost.dll
+C:\Users\KERO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Mvc.dll
+C:\Users\KERO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Optimization.dll
+C:\Users\KERO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Providers.dll
+C:\Users\KERO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Razor.dll
+C:\Users\KERO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Deployment.dll
+C:\Users\KERO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.dll
+C:\Users\KERO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Razor.dll
+C:\Users\KERO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\WebGrease.dll
+C:\Users\KERO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\EntityFramework.xml
+C:\Users\KERO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\Newtonsoft.Json.xml
+C:\Users\KERO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Net.Http.Formatting.xml
+C:\Users\KERO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Http.xml
+C:\Users\KERO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Http.WebHost.xml
+C:\Users\KERO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Mvc.xml
+C:\Users\KERO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Razor.xml
+C:\Users\KERO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.xml
+C:\Users\KERO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Deployment.xml
+C:\Users\KERO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Razor.xml
+C:\Users\KERO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\obj\Debug\StoreManager.csprojResolveAssemblyReference.cache
+C:\Users\KERO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\obj\Debug\StoreManager.dll
+C:\Users\KERO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\obj\Debug\StoreManager.pdb
+C:\Users\LENOVO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\StoreManager.dll.config
+C:\Users\LENOVO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\StoreManager.dll
+C:\Users\LENOVO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\StoreManager.pdb
+C:\Users\LENOVO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\Antlr3.Runtime.dll
+C:\Users\LENOVO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\EntityFramework.dll
+C:\Users\LENOVO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LENOVO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\Newtonsoft.Json.dll
+C:\Users\LENOVO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Mvc.dll
+C:\Users\LENOVO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Optimization.dll
+C:\Users\LENOVO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Providers.dll
+C:\Users\LENOVO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Razor.dll
+C:\Users\LENOVO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Deployment.dll
+C:\Users\LENOVO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.dll
+C:\Users\LENOVO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Razor.dll
+C:\Users\LENOVO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\WebGrease.dll
+C:\Users\LENOVO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\EntityFramework.xml
+C:\Users\LENOVO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\Newtonsoft.Json.xml
+C:\Users\LENOVO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Mvc.xml
+C:\Users\LENOVO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Razor.xml
+C:\Users\LENOVO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.xml
+C:\Users\LENOVO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Deployment.xml
+C:\Users\LENOVO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Razor.xml
+C:\Users\LENOVO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\obj\Debug\StoreManager.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\obj\Debug\StoreManager.dll
+C:\Users\LENOVO\Desktop\StoreManager\StoreManager (3)\StoreManager\StoreManager\obj\Debug\StoreManager.pdb
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\StoreManager.dll.config
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\StoreManager.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\StoreManager.pdb
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\Antlr3.Runtime.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\EntityFramework.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\Microsoft.Web.Infrastructure.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\Newtonsoft.Json.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\System.Net.Http.Formatting.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Http.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Http.WebHost.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Mvc.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Optimization.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Providers.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Razor.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Deployment.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Razor.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\WebGrease.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\EntityFramework.xml
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\Newtonsoft.Json.xml
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\System.Net.Http.Formatting.xml
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Http.xml
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Http.WebHost.xml
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Mvc.xml
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Razor.xml
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.xml
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Deployment.xml
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Razor.xml
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\obj\Debug\StoreManager.csprojResolveAssemblyReference.cache
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\obj\Debug\StoreManager.dll
+D:\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\obj\Debug\StoreManager.pdb
+D:\DaiHoc\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\StoreManager.dll.config
+D:\DaiHoc\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\StoreManager.dll
+D:\DaiHoc\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\StoreManager.pdb
+D:\DaiHoc\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\Antlr3.Runtime.dll
+D:\DaiHoc\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\EntityFramework.dll
+D:\DaiHoc\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\Microsoft.Web.Infrastructure.dll
+D:\DaiHoc\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\Newtonsoft.Json.dll
+D:\DaiHoc\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\System.Net.Http.Formatting.dll
+D:\DaiHoc\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Http.dll
+D:\DaiHoc\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Http.WebHost.dll
+D:\DaiHoc\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Mvc.dll
+D:\DaiHoc\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Optimization.dll
+D:\DaiHoc\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Providers.dll
+D:\DaiHoc\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Razor.dll
+D:\DaiHoc\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Deployment.dll
+D:\DaiHoc\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.dll
+D:\DaiHoc\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Razor.dll
+D:\DaiHoc\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\WebGrease.dll
+D:\DaiHoc\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\EntityFramework.xml
+D:\DaiHoc\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\Newtonsoft.Json.xml
+D:\DaiHoc\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\System.Net.Http.Formatting.xml
+D:\DaiHoc\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Http.xml
+D:\DaiHoc\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Http.WebHost.xml
+D:\DaiHoc\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Mvc.xml
+D:\DaiHoc\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Razor.xml
+D:\DaiHoc\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.xml
+D:\DaiHoc\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Deployment.xml
+D:\DaiHoc\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Razor.xml
+D:\DaiHoc\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\obj\Debug\StoreManager.csprojResolveAssemblyReference.cache
+D:\DaiHoc\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\obj\Debug\StoreManager.dll
+D:\DaiHoc\BaitapDHTH\JavaScript\DoAn\StoreManager (3)\StoreManager\StoreManager\obj\Debug\StoreManager.pdb
+C:\Users\sword\OneDrive\Desktop\FileHocTap\StoreManager (3)\StoreManager\StoreManager\bin\StoreManager.dll.config
+C:\Users\sword\OneDrive\Desktop\FileHocTap\StoreManager (3)\StoreManager\StoreManager\bin\StoreManager.dll
+C:\Users\sword\OneDrive\Desktop\FileHocTap\StoreManager (3)\StoreManager\StoreManager\bin\StoreManager.pdb
+C:\Users\sword\OneDrive\Desktop\FileHocTap\StoreManager (3)\StoreManager\StoreManager\bin\Antlr3.Runtime.dll
+C:\Users\sword\OneDrive\Desktop\FileHocTap\StoreManager (3)\StoreManager\StoreManager\bin\EntityFramework.dll
+C:\Users\sword\OneDrive\Desktop\FileHocTap\StoreManager (3)\StoreManager\StoreManager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sword\OneDrive\Desktop\FileHocTap\StoreManager (3)\StoreManager\StoreManager\bin\Newtonsoft.Json.dll
+C:\Users\sword\OneDrive\Desktop\FileHocTap\StoreManager (3)\StoreManager\StoreManager\bin\System.Net.Http.Formatting.dll
+C:\Users\sword\OneDrive\Desktop\FileHocTap\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Http.dll
+C:\Users\sword\OneDrive\Desktop\FileHocTap\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Http.WebHost.dll
+C:\Users\sword\OneDrive\Desktop\FileHocTap\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Mvc.dll
+C:\Users\sword\OneDrive\Desktop\FileHocTap\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Optimization.dll
+C:\Users\sword\OneDrive\Desktop\FileHocTap\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Providers.dll
+C:\Users\sword\OneDrive\Desktop\FileHocTap\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Razor.dll
+C:\Users\sword\OneDrive\Desktop\FileHocTap\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sword\OneDrive\Desktop\FileHocTap\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.dll
+C:\Users\sword\OneDrive\Desktop\FileHocTap\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Razor.dll
+C:\Users\sword\OneDrive\Desktop\FileHocTap\StoreManager (3)\StoreManager\StoreManager\bin\WebGrease.dll
+C:\Users\sword\OneDrive\Desktop\FileHocTap\StoreManager (3)\StoreManager\StoreManager\bin\EntityFramework.xml
+C:\Users\sword\OneDrive\Desktop\FileHocTap\StoreManager (3)\StoreManager\StoreManager\bin\Newtonsoft.Json.xml
+C:\Users\sword\OneDrive\Desktop\FileHocTap\StoreManager (3)\StoreManager\StoreManager\bin\System.Net.Http.Formatting.xml
+C:\Users\sword\OneDrive\Desktop\FileHocTap\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Http.xml
+C:\Users\sword\OneDrive\Desktop\FileHocTap\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Http.WebHost.xml
+C:\Users\sword\OneDrive\Desktop\FileHocTap\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Mvc.xml
+C:\Users\sword\OneDrive\Desktop\FileHocTap\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.Razor.xml
+C:\Users\sword\OneDrive\Desktop\FileHocTap\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.xml
+C:\Users\sword\OneDrive\Desktop\FileHocTap\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sword\OneDrive\Desktop\FileHocTap\StoreManager (3)\StoreManager\StoreManager\bin\System.Web.WebPages.Razor.xml
+C:\Users\sword\OneDrive\Desktop\FileHocTap\StoreManager (3)\StoreManager\StoreManager\obj\Debug\StoreManager.csprojResolveAssemblyReference.cache
+C:\Users\sword\OneDrive\Desktop\FileHocTap\StoreManager (3)\StoreManager\StoreManager\obj\Debug\StoreManager.dll
+C:\Users\sword\OneDrive\Desktop\FileHocTap\StoreManager (3)\StoreManager\StoreManager\obj\Debug\StoreManager.pdb

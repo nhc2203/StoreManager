@@ -1,0 +1,310 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+  
+    <link href="~/Content/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"><!--font icon cho header-->
+    
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+    <link href="~/Content/themes/StyleSheet1.css" rel="stylesheet" />
+</head>
+@using StoreManager.Models;
+<body>
+    <style>
+        #backtop{
+        width:50px;
+        height:50px;
+        background-color:orange;
+        color:#FFFFFF;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        border-radius:50%;
+        position:fixed;
+        bottom:40px;
+        float:right;
+        right:20px;
+        cursor:inherit;
+        }
+    </style>
+    <header><!--header-->
+		<div class="header_top"><!--header_top-->
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-6 ">
+						<div>
+							<ul class="nav nav-pills">
+								<li><a href="#"><i class="fa fa-phone"></i>+84 966686868    </a></li>
+								<li><a href="#"><i class="fa fa-envelope" style="margin-left:10px"></i> dacdat190201@gmail.com</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-sm-6">
+						<div style="float:right">
+							<ul class="nav nav-navbar"  style="margin-left:10px">
+								<li class="nav-item"><a href="#" ><i class=" fa fa-facebook"></i></a></li>
+								<li class="nav-item"><a href="#"><i class="fa fa-twitter"></i></a></li>
+								<li class="nav-item"><a href="#"><i class="fa fa-linkedin"></i></a></li>
+								<li class="nav-item"><a href="#"><i class="fa fa-dribbble"></i></a></li>
+								<li class="nav-item"><a href="#"><i class="fa fa-google-plus"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div><!--/header_top-->
+        <div class="header-middle"><!--header-middle-->
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4">
+						<div class="pull-left">
+							<a href="/StoreManager/Home"><img src="~/Content/Images/logo.png" /></a>                
+						</div>	
+					</div>
+					<div class="col-md-8">
+						<div class="pull-right">
+							<ul class="nav nav-navbar">
+								<li><a href="/QLSanPham/DangNhapNV"><i class="fa fa-user"></i> Tài khoản
+                                        @{
+                                            if (Session["nhanvien"] != null)
+                                            {
+                                                var k = Session["nhanvien"] as NHANVIEN;
+                                                <a href="/QLSanPham/DangXuatNV" style="color: red">Đăng Xuất</a>
+                                            }
+                                        }</a></li>
+								<li><a href="/QLSanPham/QLSanPham"><i class="fa fa-star"></i> Danh mục</a></li>
+								<li><a href="/QLHOADON/QLHangHoa"><i class="fa fa-crosshairs"></i> Thanh toán</a></li>
+								<li><a href="/StoreManager/XemGioHang"><i class="fa fa-shopping-cart"></i> Giỏ hàng
+                                    @{
+                                        GioHang g = Session["gh"] as GioHang;
+                                        if (g != null)  
+                                        {
+                                            <text>(@g.SoMatHang())</text>
+                                        }
+                                        else
+                                        {
+                                            <span>(0)</span>
+                                        }
+                                    }<br />
+                                    @{
+                                        if (Session["khachhang"] != null)
+                                        {
+                                             var k = Session["khachhang"] as KHACHHANG;
+                                             <a href="/StoreManager/DangXuat">Đăng Xuất</a>
+                                             <p>Chào bạn, @k.TENKH</p>
+                                            }
+                                        }
+                                    </a></li>
+								<li><a href="/StoreManager/DangNhap"><i class="fa fa-lock"></i> Đăng nhập</a></li>
+                                <li><a href="/StoreManager/DangKy"><i class="fas fa-user-plus"></i> Đăng Ký</a></li>
+                                
+							</ul>
+						</div>
+
+					</div>
+				</div>
+			</div>
+		</div><!--/header-middle-->
+    <div class="header-bottom"><!--header-bottom-->
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-9">
+						<div class="pull-left">
+							<ul class="nav">
+                                <li class="nav-item  btn-outline-warning">
+                                    <a class="nav-link mt-1" href="/StoreManager/Home" style="color:black">Trang Chủ</a>
+                                </li>
+                                    
+                                <li class="nav-item  btn-outline-warning">
+                                    <a class="nav-link mt-1" href="/StoreManager/Blog" style="color:black">Blog</a>
+                                </li>
+                                <li class="nav-item  btn-outline-warning">
+                                    <a class="nav-link mt-1" href="~/StoreManager/Support" style="color:black">Liên Hệ</a>
+                                </li>
+                                <li class="nav-item  btn-outline-warning">
+                                    <a class="nav-link mt-1" href="#" style="color:black">Dịch Vụ</a>
+                                </li>
+                            </ul>
+						</div>
+					</div>
+					<div class="col-sm-3">
+						<div class="search_box pull-right">
+							<form action="/StoreManager/XuLiTK" method="post" >
+                                <input type="text" placeholder="Nhập từ khóa..." name="txtTuKhoa" />
+                                <input type="submit" value="Tìm"  />
+                            </form>
+						</div>
+					</div>
+				</div>
+                
+			</div>
+		</div>
+	</header>
+    <div class="container">
+        <img src="~/Content/Images/anhbia.jpg" />
+	</div>
+    <div>
+        @RenderBody()
+    </div>
+    <div id="backtop">
+        <i class="fas fa-arrow-alt-circle-up"></i>
+    </div>
+    <footer class="footer"><!--Footer-->
+		<div class="footer-top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-3">
+                        <div class="info">
+                            <h2><span>e</span>-shopper</h2>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,sed do eiusmod tempor</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-2">
+                        <div class="col">
+                            <div style="text-align:center;padding-top:30px">
+								<a href="#">
+									<div class="iframe-img">
+                                        <img src="~/Content/Images/iframe1.png" alt="" />
+									</div>
+								</a>
+								<p style="color: #8C8C88; font-family: 'Roboto', sans-serif;">Circle of Hands</p>
+								<p style="color: #8C8C88; font-family: 'Roboto', sans-serif;">24 DEC 2014</p>
+							</div>
+                        </div>
+
+                    </div>
+                    <div class="col-sm-2">
+                        <div class="col">
+                            <div style="text-align:center;padding-top:30px">
+								<a href="#">
+									<div class="iframe-img">
+                                        <img src="~/Content/Images/iframe1.png" alt="" />
+									</div>
+								</a>
+								<p style="color: #8C8C88; font-family: 'Roboto', sans-serif;">Circle of Hands</p>
+								<p style="color: #8C8C88; font-family: 'Roboto', sans-serif;">24 DEC 2014</p>
+							</div>
+                        </div>
+
+                    </div>
+                    <div class="col-sm-2">
+                        <div class="col">
+                            <div style="text-align:center;padding-top:30px">
+								<a href="#">
+									<div class="iframe-img">
+                                        <img src="~/Content/Images/iframe1.png" alt="" />
+									</div>
+								</a>
+								<p style="color: #8C8C88; font-family: 'Roboto', sans-serif;">Circle of Hands</p>
+								<p style="color: #8C8C88; font-family: 'Roboto', sans-serif;">24 DEC 2014</p>
+							</div>
+                        </div>
+
+                    </div>
+
+                    <div class="col-sm-3">
+						<div class="address">
+                            <img src="~/Content/Images/map.png" />
+							<p>505 S Atlantic Ave Virginia Beach, VA(Virginia)</p>
+						</div>
+					</div>
+                </div>
+            </div>
+		</div>
+        <div class="footer-widget">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-2">
+						<div class="single-widget">
+							<h2>Service</h2>
+							<ul class="nav nav-pills nav-stacked">
+								<li><a href="">Online Help</a></li>
+								<li><a href="">Contact Us</a></li>
+								<li><a href="">Order Status</a></li>
+								<li><a href="">Change Location</a></li>
+								<li><a href="">FAQs</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-sm-2">
+						<div class="single-widget">
+							<h2>Quock Shop</h2>
+							<ul class="nav nav-pills nav-stacked">
+								<li><a href="">T-Shirt</a></li>
+								<li><a href="">Mens</a></li>
+								<li><a href="">Womens</a></li>
+								<li><a href="">Gift Cards</a></li>
+								<li><a href="">Shoes</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-sm-2">
+						<div class="single-widget">
+							<h2>Policies</h2>
+							<ul class="nav nav-pills nav-stacked">
+								<li><a href="">Terms of Use</a></li>
+								<li><a href="">Privecy Policy</a></li>
+								<li><a href="">Refund Policy</a></li>
+								<li><a href="">Billing System</a></li>
+								<li><a href="">Ticket System</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-sm-2">
+						<div class="single-widget">
+							<h2>About Shopper</h2>
+							<ul class="nav nav-pills nav-stacked">
+								<li><a href="">Company Information</a></li>
+								<li><a href="">Careers</a></li>
+								<li><a href="">Store Location</a></li>
+								<li><a href="">Affillate Program</a></li>
+								<li><a href="">Copyright</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-sm-3 col-sm-offset-1">
+						<div class="single-widget">
+							<h2>About Shopper</h2>
+							<form action="#" class="searchform">
+								<input type="text" placeholder="Your email address" /><input id="Submit1" type="submit" value="submit" style="background-color:orange" />
+                                
+							</form>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+		</div>
+		
+		<div class="footer-bottom">
+			<div class="container">
+				<div class="row">
+					<p class="pull-left">Copyright ©</p>
+					<p class="pull-right">Designed by <span><a>Themeum</a></span></p>
+				</div>
+			</div>
+		</div>
+	</footer><!--/Footer-->
+	
+    <script src="~/Content/bootstrap/js/jquery-3.3.1.min.js"></script>
+    <script src="~/Content/bootstrap/js/bootstrap.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+    <script>
+        $(document).ready(function () {
+            $(window).scroll(function () {
+                if ($(this).scrollTop()) {
+                    $('#backtop').fadeIn();
+                } else {
+                    $('#backtop').fadeOut();
+                }
+            });
+            $("#backtop").click(function () {
+                $('html, body').animate({ scrollTop: 0 }, 500);
+            });
+        });
+    </script>
+</body>
+</html>

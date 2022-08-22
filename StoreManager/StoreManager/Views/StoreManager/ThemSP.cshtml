@@ -1,0 +1,85 @@
+﻿@model StoreManager.Models.SANPHAM
+
+@{
+    ViewBag.Title = "ThemSP";
+    Layout = "~/Views/Shared/Masterpage.cshtml";
+}
+
+<h2>ThemSP</h2>
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>SANPHAM</legend>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.TENSP)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.TENSP)
+            @Html.ValidationMessageFor(model => model.TENSP)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.SIZE)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.SIZE)
+            @Html.ValidationMessageFor(model => model.SIZE)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.XUATXU)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.XUATXU)
+            @Html.ValidationMessageFor(model => model.XUATXU)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.GIOITINH)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.GIOITINH)
+            @Html.ValidationMessageFor(model => model.GIOITINH)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.GIABAN)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.GIABAN)
+            @Html.ValidationMessageFor(model => model.GIABAN)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.HINH)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.HINH)
+            @Html.ValidationMessageFor(model => model.HINH)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.MALOAI)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.MALOAI)
+            @Html.ValidationMessageFor(model => model.MALOAI)
+        </div>
+
+        <p>
+            <input type="submit" value="Create" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Home")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

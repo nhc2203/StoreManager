@@ -1,0 +1,28 @@
+﻿@{
+    ViewBag.Title = "DangXuat";
+    Layout = "~/Views/Shared/Masterpage.cshtml";
+}
+
+<div class="container">
+    <h2>Đăng xuất thành công</h2><br />
+    <h2 style="text-align:center">ĐĂNG NHẬP</h2>
+    <form action="/StoreManager/XLDN" method="post">
+        <table class="table" border="1">
+
+            <tr>
+                <td>Tên khách hàng</td>
+                <td><input type="text" name="txtTendn" value="" /></td>
+            </tr>
+            <tr>
+                <td>Mật khẩu</td>
+                <td><input type="password" name="txtPass" value="" /></td>
+            </tr>
+            <tr>
+                <td colspan="2" style="text-align:center"><input type="submit" value="Đăng nhập" /></td>
+
+            </tr>
+
+        </table>
+    </form>
+</div>
+
